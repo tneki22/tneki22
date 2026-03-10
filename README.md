@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Надеюсь когда то будут идеи что тут писать..
 <!--
 **tneki22/tneki22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
